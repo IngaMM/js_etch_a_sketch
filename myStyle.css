@@ -1,0 +1,21 @@
+#sketchPad {
+  height: 960px;
+  width: 960px;
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  position: relative;
+  top: 10px;
+}
+
+.square {
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  float: left;
+  box-sizing: border-box;
+}
+
+button {
+  font-size: 18px;
+}
